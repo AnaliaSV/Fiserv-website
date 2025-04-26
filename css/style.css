@@ -234,6 +234,9 @@
       color: #2AAB4B;
     }
 
+    .texto-red{
+      color: #E23212;
+    }
 
     /* fondo */
     .bgc-grey-1{
@@ -300,6 +303,24 @@
 
   
     .boton-orange:active{
+      background-color:black !important;
+      color: white !important;
+    }
+
+
+
+    .btn-posberry{
+      background-color: #E23212;
+      color: white;
+    }
+  
+   .btn-posberry:hover{
+      background-color:black;
+      color: white;
+    }
+
+  
+    .btn-posberry:active{
       background-color:black !important;
       color: white !important;
     }
@@ -528,6 +549,11 @@
         color: white;
       }
 
+      .btn-posberry{
+        background-color: #E23212;
+        color: white;
+      }
+
             /* img 2 */
             .btn-clover:hover,.btn-clover:focus, .btn-clover:active, .btn-clover:focus-visible {
               background-color: #237235;
@@ -660,6 +686,10 @@
         padding: 30px;
       }
 
+      .pxy-seccion-2, .pxy-seccion-2-reverse-op-2 {
+        padding: 30px;
+      }
+
       /* img 2, img 4*/
       .seccion-2-img-2-4 {
         background-size: 100% 100%;
@@ -684,6 +714,10 @@
         padding:20px ;
       }
 
+      .pxy-seccion-2, .pxy-seccion-2-reverse-op-2{
+        padding:20px ;
+      }
+
       /* img 2, img 4*/
       .seccion-2-img-2-4 {
         /* background: #fff url(../imagenes/seccion-2-_fondo-left-bottom-992.png) top right no-repeat;  */
@@ -703,6 +737,11 @@
 
       .pxy-seccion-2-reverse{
         padding: 22px 10px 30px 80px;;
+        }
+
+        
+      .pxy-seccion-2-reverse-op-2{
+        padding: 12px 10px 15px 80px;;
         }
       
     .seccion-2-img-1-3-5  {
